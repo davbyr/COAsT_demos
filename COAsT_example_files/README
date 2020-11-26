@@ -1,0 +1,24 @@
+This folder contains example netCDF data.
+
+COAsT_example_NEMO_data.nc (25M)
+COAsT_example_NEMO_subset_data.nc (< 1Mb)
+COAsT_example_NEMO_domain.nc (39M)
+COAsT_example_altimetry_data.nc (600K)
+nemo_data_T_grid_Aug2015.nc (94Mb)
+nemo_data_T_grid.nc (80M)
+nemo_data_U_grid.nc (25M)
+nemo_data_V_grid.nc (25M)
+
+plus a collection of tide gauge files
+tide_gauges/
+dover-p012-uk-bodc
+harwich-p022-uk-bodc
+ilfracombe-p061-uk-bodc
+millport-p049-uk-bodc
+morayfirth-p207-uk-bodc
+portellen-p202-uk-bodc
+portsmouth-p008-uk-bodc
+
+
+Detailed README describing further datasets and the compression @
+https://github.com/british-oceanographic-data-centre/COAsT
