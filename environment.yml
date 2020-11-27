@@ -1,0 +1,7 @@
+name: workshop_env
+channels:
+  - conda-forge
+  - bodc
+dependencies:
+  - coast
+  - cartopy
